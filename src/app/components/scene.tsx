@@ -27,7 +27,7 @@ export default function Scene() {
           rotation={[Math.PI / 2, 0, 0]}
         />
          <Cloud 
-          position={[-50, 25, -50]}
+          position={[-20, 40, -50]}
           speed={0.2}
           opacity={0.5}
           segments={20}
